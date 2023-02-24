@@ -1,0 +1,59 @@
+.maincontainer
+{
+    background-color: paleturquoise;
+    width: 0 auto;
+}
+header
+{
+    box-shadow: 5px 5px 5px 5px;
+    display: flex;
+ background-color: ;
+}
+.logo
+{
+ padding: 10px 10px 10px 10px;
+        font-family: italic Impact, 'Arial Narrow Bold', sans-serif;
+}
+.list1
+{
+    display: flex;
+    list-style:none;
+    width: 0 auto;
+        margin-left:200px;
+
+}
+.list1 .sub-li
+{
+    display: flex;
+    margin-left: 15px;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 10px 20px 5px 30px;
+    padding: 3px 3px 3px 3px;
+}
+section
+{
+    display: flex;
+    align-content: center;
+}
+.sec11
+{
+     margin-left: 15px;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 10px 20px 5px 30px;
+    padding: 3px 3px 3px 3px;
+    width: 500px;
+}
+.sec12
+{
+height: 300px;
+width: 600px;
+    margin-left: 15px;
+    box-shadow: 5px 5px 5px 5px black;
+    border-radius: 10px 20px 5px 30px;
+}
+img
+{
+border-radius: 10px 20px 5px 30px;
+height: 300px;
+width: 600px;
+}

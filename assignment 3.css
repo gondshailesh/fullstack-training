@@ -1,0 +1,20 @@
+thead
+{
+   height: 30px;
+    background-color:yellow;
+    border-color: lawngreen;
+    border: 3px;
+    
+}
+tfoot
+{
+   height: 30px;
+    background-color:yellow;
+    border-color: lawngreenS;
+        border: 3px;
+
+}
+img
+{
+    height: fit-content;
+}

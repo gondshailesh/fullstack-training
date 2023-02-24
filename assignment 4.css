@@ -1,0 +1,123 @@
+body
+{
+background-color: gray;
+
+}
+.maincontainer
+{
+    background-color: wheat;
+margin: 0 auto;
+border-radius: 30px 20px 30px 20px;
+width: 1000px;
+}
+.logo
+{
+    font-family: Arial, Helvetica, sans-serif;
+width: 550px;
+margin-left: 10px;
+}
+.nav-list
+{
+display: flex;
+    margin-left:220px;
+    list-style: none;
+    padding-top:0px
+    
+}
+header
+{
+display: flex;
+box-shadow: 5px 5px 5px 5px ;
+background-color: antiquewhite;
+border-radius: 30px 5px 30px 5px;
+
+
+}
+.nevegation
+{
+width: 100%;
+text-align: right;
+}
+.k
+{
+    margin-left:15px;
+    padding: 0px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 5px 5px red;
+    border-radius: 30px 5px 30px 5px;
+
+}
+
+.cont1
+{
+   display: flex; 
+   margin: 20px;
+   background-color: white;
+   border-radius: 30px 5px 30px 5px;
+
+}
+.list
+{border-radius: 30px 5px 30px 5px;
+
+}
+.list1
+{
+        box-shadow: 5px 5px 5px 5px red;
+        border-radius: 30px 5px 30px 5px;
+
+margin: 20px;
+}
+
+
+
+ul .list1 li
+{
+    margin-left: 10px;
+    border-radius: 30px 5px 30px 5px;
+
+}
+.image-text
+{
+    display: flex;
+border-radius: 30px 5px 30px 5px;
+
+    
+}
+.text2
+{
+    width: 100%px;
+    text-align: justify;
+    padding: 10px;
+    box-shadow: 5PX 5PX 5PX 5PX red;
+    margin: 20px;
+border-radius: 30px 5px 30px 5px;
+
+}
+.image2
+{
+    padding: 10px;
+        box-shadow: 5PX 5PX 5PX 5PX red;
+            margin: 20px;
+            border-radius: 30px 5px 30px 5px;
+
+}
+.image img 
+{
+align-content: center;
+box-shadow: 5px 5px 5px 5px red;
+margin-left: 50px;
+border-radius: 30px 5px 30px 5px;
+
+
+}
+.image-text
+{border-radius: 30px 5px 30px 5px;
+
+    background-color: white;
+}
+.bdcolor
+{border-radius: 30px 5px 30px 5px;
+
+    box-shadow: 2px 2px 2px 2px aqua;
+}
+

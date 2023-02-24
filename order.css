@@ -1,0 +1,25 @@
+
+body
+{
+background-color: lightgoldenrodyellow;
+}
+header
+{
+    z-index: 1;
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+}
+.nav-link
+{
+    margin-left: 15px;
+
+}
+.row.g-3.needs-validation
+{
+     margin-top: 65px;
+}
+.submsg{
+    margin-left: 45%;
+    color: green;
+}

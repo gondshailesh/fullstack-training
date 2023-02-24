@@ -1,0 +1,39 @@
+body{
+
+background-color: gray;
+}
+.logo
+{
+padding: 20px;
+    
+}
+.main-container
+{
+    width: 0 auto;
+}
+header{
+    background-color: aqua;
+    box-shadow: 5px 5px 5px 5px pink;
+    border-color: aqua;
+    display: flex;
+    margin-left: 70px;
+        margin-right: 70px;
+
+}
+.li
+{
+    margin-left: 10px;
+    list-style: none;
+    box-shadow: 2px 2px 2px 2px yellow;
+}
+.unorderlist
+{
+    display: flex;
+    margin-left: 650px;
+}
+.image1
+{
+    padding-left: 70px;
+    padding-right: 70px;
+    box-shadow: 5px 5px 5px 5px pink;
+}

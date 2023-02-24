@@ -1,0 +1,60 @@
+.one
+{
+    border:1px solid orange;
+    background: chartreuse;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    width: fit-content;
+    box-shadow: 15px cornsilk;
+    font-size: x-large;
+     box-shadow: 10px 10px yellow;
+
+}
+.two
+{
+ border: 2px solid yellow;
+    background-color: firebrick;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    width: fit-content;
+    font-size: x-large;
+     box-shadow: 10px 10px yellow;
+
+}
+.three
+{
+ border: 3px solid white;
+    margin: 10px;
+    padding: 10px;
+    width: fit-content;
+    font-size: x-large;
+background-color: aquamarine;
+ box-shadow: 10px  10px yellow;
+}
+.four
+{
+ border: 4px solid royalblue ;
+    background: lightgoldenrodyellow;
+    margin: 10px;
+    padding: 10px;
+    width: fit-content;
+    font-size: x-large;
+ box-shadow: 10px 10px yellow;
+}
+.five
+{
+ border: 5px solid  forestgreen;
+    background: chartreuse;
+    margin: 10px;
+    padding: 10px;
+    width: fit-content;
+    font-size: x-large;
+    display: flexbox;
+ box-shadow: 10px 10px yellow;
+}
+.CLASS
+{
+    display: flex;
+    line-height: 30px;
+    box-shadow: 10px yellow;
+}

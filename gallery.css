@@ -1,0 +1,29 @@
+body
+{
+}
+header
+{
+    z-index: 1;
+    position: fixed;
+    margin-top: 0px;
+    width: 100%;
+}
+.nav-link
+{
+    margin-left: 15px;
+
+}
+
+.d-flex
+{
+    width: 100%;
+}
+.shadow-sm
+{
+    margin-top: 75px;
+    background-color: lightgoldenrodyellow;
+}
+.carousel-indicators
+{
+    margin-top: 68px;
+}

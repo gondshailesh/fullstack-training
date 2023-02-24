@@ -1,0 +1,47 @@
+.sir
+{
+    background-color: yellow;
+    border-top: 10px;
+    border-left: 50px;
+    border-right: 10px;
+    border-bottom: 10px;
+    padding-left: 30px;
+
+}
+.madhav
+{ 
+
+    background-color: pink;
+    border-top: 10px;
+    border-left: 50px;
+    border-right: 10px;
+    border-bottom: 10px;
+    padding-left: 30px;
+
+}
+.shailesh
+{
+
+    background-color: chartreuse;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    border-bottom: 10px;
+    padding-left: 30px;
+}
+.machine
+{
+    padding-left: 55px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-right: 55px;
+    background-color:gold;
+    border-top: 50px;
+    border-right: 50; 
+border-color: cadetblue;
+text-shadow: cyan;
+box-sizing: initial;
+
+}
+
+

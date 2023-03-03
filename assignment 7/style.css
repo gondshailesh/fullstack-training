@@ -36,6 +36,7 @@ header
 {
 text-decoration: none;
 position: relative;
+margin-bottom: 2px !important;
 left: 210px;
 }
 .linked-home
@@ -66,4 +67,35 @@ box-shadow: rgb(0 0 0 / 6%) 0px 4px 7px;
 .type-of-ls
 {
     list-style: none;
+}
+.img-grocery
+{
+    box-sizing: content-box;
+    border-radius: 10px 10px 10px 10px;
+     height: 60px;
+     width: 60px;
+}
+.sec-one
+{
+background:  rgb(247, 253, 250);
+}
+.img-grocery
+{
+    background: rgba(0, 210, 144, 0.08);
+}
+.pos-div
+{
+     height: 60px;
+     width: 60px;
+}
+.sechead
+{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 77%, rgba(10,9,111,1) 100%);
+}
+.relcolor
+{    background: rgba(0, 210, 144, 0.08);
+}
+.sec-one-color{
+        background: rgb(247, 253, 250);
 }
